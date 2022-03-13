@@ -17,5 +17,5 @@ source venv/bin/activate
 3. Install the game requirements:
 ```bash
 pip install -r requirements.txt
-``
+```
 
